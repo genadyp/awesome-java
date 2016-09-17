@@ -131,6 +131,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 * [Caffeine](https://github.com/ben-manes/caffeine) - High performance, near optimal caching library.
 * [Ehcache](http://www.ehcache.org/) - Distributed general purpose cache.
+* [Stormpot](https://github.com/chrisvest/stormpot) - A fast object pool for the JVM
 
 ## Cluster Management
 
